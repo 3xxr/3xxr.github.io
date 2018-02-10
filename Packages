@@ -1,0 +1,13 @@
+Package: com.coolstar.anemone
+Version: 2.1.5-4
+Architecture: iphoneos-arm
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Filename: /Anemone.deb
+Size: 1881346
+MD5sum: c274780d972590a5d05fee616765b0bb
+SHA1: fa1e558d7f31eb4874a93c6455a7ff053096d91f
+SHA256: 29a951d5a914adbe7565813cfb69b8421b5e5996e425e6276af0246479e31029
+Section: Tweaks
+Description: Test for Anemone version 2.1.5-4 that compatible with 10.3/10.3.1 (NO 10.3.2/10.3.3 YET)
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Name: Anemone
